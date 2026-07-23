@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Model Files
+*.pkl
+*.joblib
+
+# Data
+data/processed/
+
+# Reports
+reports/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Pytest
+.pytest_cache/

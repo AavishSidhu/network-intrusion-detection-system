@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+xgboost
+shap
+jupyter
+notebook
+fastapi
+uvicorn
+python-multipart
