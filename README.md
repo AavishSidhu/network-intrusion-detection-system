@@ -40,4 +40,19 @@ network-intrusion-detection-system/
 
 ## Project Status
 
-🚧 Initial project setup completed.
+Network Intrusion Detection System
+
+Phase 1 ✅
+✔ Project Setup
+✔ Git & GitHub
+✔ Python Environment
+✔ Folder Structure
+✔ Dependencies
+
+Phase 2 ✅
+✔ Dataset Download
+✔ Schema
+✔ Data Loader
+✔ Data Validator
+✔ Validation Report
+✔ Git Commit
