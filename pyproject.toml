@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "network-intrusion-detection-system"
+version = "0.1.0"
+description = "Network Intrusion Detection System using Machine Learning"
+requires-python = ">=3.11"
+
+[tool.setuptools]
+packages = ["src"]

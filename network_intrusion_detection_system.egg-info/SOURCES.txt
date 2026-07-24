@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+network_intrusion_detection_system.egg-info/PKG-INFO
+network_intrusion_detection_system.egg-info/SOURCES.txt
+network_intrusion_detection_system.egg-info/dependency_links.txt
+network_intrusion_detection_system.egg-info/top_level.txt
+src/__init__.py
